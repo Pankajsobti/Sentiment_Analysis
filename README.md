@@ -3,9 +3,9 @@
 A full-stack NLP application that analyzes text sentiment using a pre-trained RoBERTa transformer model.
 ## Demo
 
-![Single Analysis](assets/demo3.png)
-![Negative Sentiment](assets/demo2.png)
-![Bulk CSV Results](assets/demo1.png)
+![Single Analysis](assets/Demo3.png)
+![Negative Sentiment](assets/Demo2.png)
+![Bulk CSV Results](assets/Demo1.png)
 
 ## Features
 - Detects Positive, Negative, and Neutral sentiment
