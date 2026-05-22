@@ -1,0 +1,18 @@
+# Python
+backend/__pycache__/
+backend/.venv/
+backend/venv/
+backend/.env
+*.pyc
+*.pyo
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# VS Code
+.vscode/
+
+# Model cache (very large, don't upload)
+~/.cache/huggingface/
